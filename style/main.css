@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.btn-custom {
+  background-color: #ff4500;
+}
+
+.btn-custom:hover,
+.btn-custom:active,
+.btn-custom:focus {
+  background-color: #cc3700 !important;
+}
+/*# sourceMappingURL=main.css.map */
